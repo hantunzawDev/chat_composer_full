@@ -1,4 +1,4 @@
-import 'package:chat_composer/chat_composer.dart';
+import 'package:chat_composer_full/chat_composer.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

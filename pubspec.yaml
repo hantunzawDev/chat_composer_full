@@ -1,6 +1,6 @@
 name: chat_composer_full
 description: A Flutter package for easy implementation of chat composer allows users to chat with Text, Audio, and Other Media.
-version: 1.0.3
+version: 1.0.4
 homepage: https://github.com/anokabb/chat_composer
 
 environment:
@@ -26,4 +26,4 @@ dev_dependencies:
 
 flutter:
   assets:
-    - packages/chat_composer/images/delete_icon.png
+    - packages/chat_composer_full/images/delete_icon.png
