@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  chat_composer:
+  chat_composer_full:
     path: ../
   cupertino_icons: ^1.0.2
 
